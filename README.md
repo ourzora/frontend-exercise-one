@@ -23,7 +23,9 @@ You do not need to finish the task. We are more concerned with getting an idea o
 This repo is configured as a GitHub template bootstrapped with the create-react-app with the TypeScript template.
 
 To use your local IDE:
-**Use this templat** > **Create a new repository**
+
+**Use this template** > **Create a new repository**
 
 To use VSCode in a browser:
+
 **Use this template** > **Open in a new codespace**
