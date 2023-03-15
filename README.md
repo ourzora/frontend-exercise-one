@@ -13,3 +13,11 @@ You are free to use any libraries you like, alternatively you can rely on the na
 You are encouraged to think out loud, ask us for help or clarification and look up any documentation you need.
 
 You’ll have 40 minutes to complete the challenge but it's perfectly fine if you don't complete all the requirements. We are less concerned with seeing you finish and more concerned with getting an understanding of your frontend knowledge, how you approach problems and what you might be like to work with.
+
+## Setup
+
+This repo is configured as a GitHub template.
+
+To use your local IDE: "Use this template" > "Create a new repository"
+
+To use VSCode in a browser: "Use this template" > "Open in a new codespace"
