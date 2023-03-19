@@ -2,7 +2,7 @@
 
 ## Instructions
 
-In this exercise we’d like you to create an React app using the unsplash API.
+In this exercise we’d like you to create an React app using the [unsplash](https://unsplash.com/) API.
 
 In the app a user should be able to:
 
